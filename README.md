@@ -7,4 +7,4 @@ It contains standalone reusable components that serve as a building blocks for F
 The modular components do not contain much application specific dependencies - they provide a basic functionality, so you can easily reuse them, adding your own application specific "look & feel" and logic.
 
 
-[Live Demo](http://stserver-storybook.impleotv.com)
+[Components storybook](http://stserver-storybook.impleotv.com)
