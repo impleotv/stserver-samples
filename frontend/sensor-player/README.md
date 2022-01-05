@@ -5,6 +5,7 @@
 
 ```bash
 git clone https://github.com/impleotv/stserver-samples
+cd /stserver-samples/frontend/sensor-player
 ```
 
 ## Install packages
@@ -48,5 +49,5 @@ useReverseProxy={false}
 ## Run the demo
 
 ```bash
-npm run start
+npm start
 ```
